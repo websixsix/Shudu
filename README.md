@@ -1,3 +1,3 @@
 # Shudu
 JavaScript，ES6，JQuery
-[demo]
+[demo]at https://websixsix.github.io/Shudu/www/index.html
