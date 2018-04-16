@@ -1,3 +1,11 @@
 # Shudu
 JavaScript，ES6，JQuery
-[demo]at https://websixsix.github.io/Shudu/www/index.html
+[demo](https://websixsix.github.io/Shudu/www/index.html)
+
+项目介绍：</br>
+1、进入游戏自动生成一局数独游戏迷盘；</br>
+2、点击空白格子出现输入框（包括1-9，红蓝格子标记，空白）；</br>
+3、检查按钮：检查当前迷盘上错误的格子（包括空白），并把它标记为红色，全部输入正确后点击检查按钮，弹出“恭喜，全对”提示框；</br>
+4、重置按钮：重置迷盘为初始模样；</br>
+5、清理按钮：清除游戏迷盘里所有的红色标记；</br>
+6、重建按钮：开启一局新的数独游戏；</br>
