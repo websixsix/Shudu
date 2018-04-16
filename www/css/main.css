@@ -53,7 +53,7 @@ body > * {
   color: white;
 }
 .container .row > span.fixed {
-  background: cadetblue;
+  background: steelblue;
 }
 .container .row > span.mark1 {
   background: lightcoral;
@@ -112,7 +112,7 @@ body > * {
   color: white;
 }
 .popup-num .row > span.fixed {
-  background: cadetblue;
+  background: steelblue;
 }
 .popup-num .row > span.mark1 {
   background: lightcoral;
