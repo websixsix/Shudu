@@ -1,5 +1,5 @@
 # Shudu
-JavaScript，ES6，JQuery
+JavaScript，ES6，JQuery</br>
 [demo](https://websixsix.github.io/Shudu/www/index.html)
 
 项目介绍：</br>
