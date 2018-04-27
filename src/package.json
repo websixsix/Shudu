@@ -19,7 +19,6 @@
     "gulp": "^3.9.1",
     "gulp-less": "^4.0.0",
     "gulp-util": "^3.0.8",
-    "util": "^0.10.3",
     "webpack-stream": "^4.0.3"
   }
 }
